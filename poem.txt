@@ -4,6 +4,7 @@ Branched off master and added this
 first line
 
 second line (fixed)
+end
 
 third line
 
