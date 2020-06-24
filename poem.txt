@@ -3,7 +3,7 @@ Branched off master and added this
 
 first line
 
-second line
+second line (fixed)
 
 third line
 
